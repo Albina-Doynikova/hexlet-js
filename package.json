@@ -9,5 +9,16 @@
   "author": "Albina Doynikova",
   "license": "ISC",
   "type": "module",
-  "keywords": []
+  "keywords": [],
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Albina-Doynikova/hexlet-js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Albina-Doynikova/hexlet-js/issues"
+  },
+  "homepage": "https://github.com/Albina-Doynikova/hexlet-js#readme"
 }
